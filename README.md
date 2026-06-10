@@ -5,14 +5,16 @@ Desenvolvedor apaixonado por construir experiências digitais de qualidade. Trab
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Minhas Estatísticas
 
-<a href="https://github.com/wallassilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallassilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/wallassilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallassilva&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=c9d1d9"/>
-</a>
+<p align="center">
+  <a href="https://github.com/wallassilva">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallassilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=6E40C9&text_color=c9d1d9" alt="Status do GitHub" />
+  </a>
+  <a href="https://github.com/wallassilva">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallassilva&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=c9d1d9" alt="Linguagens Mais Usadas" />
+  </a>
+</p>
 
 ---
 
