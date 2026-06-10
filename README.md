@@ -36,16 +36,6 @@ Desenvolvedor apaixonado por construir experiências digitais de qualidade. Trab
 
 ---
 
-## 📈 Atividade de Contribuições
-
-<div align="center">
-
-[![Wallas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wallassilva&bg_color=0d1117&color=6E40C9&line=6E40C9&point=FF6B6B&area=true&hide_border=true)](https://github.com/wallassilva)
-
-</div>
-
----
-
 ## 🌐 Conecte-se comigo
 
 
@@ -56,10 +46,4 @@ Desenvolvedor apaixonado por construir experiências digitais de qualidade. Trab
 
 ---
 
-<div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=wallassilva&color=6E40C9&style=flat-square&label=Visualizações+do+perfil)
-
-⭐ **Obrigado por visitar meu perfil!** ⭐
-
-</div>
